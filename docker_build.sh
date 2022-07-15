@@ -1,0 +1,1 @@
+docker build -t telegram-bot:1.0.0 .
